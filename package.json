@@ -1,0 +1,27 @@
+{
+  "name": "full-stack-learning",
+  "version": "1.0.0",
+  "description": "Just a study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TulioHRC/Full-Stack-Learning.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "reactJS"
+  ],
+  "author": "Jocker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TulioHRC/Full-Stack-Learning/issues"
+  },
+  "homepage": "https://github.com/TulioHRC/Full-Stack-Learning#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
