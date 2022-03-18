@@ -1,4 +1,4 @@
-# Full-Stack-Learning
+# Full-Stack-Template
 
 Repository to be my ReactJS + NodeJS programming's template, so it'll be forked many times I think.
 
